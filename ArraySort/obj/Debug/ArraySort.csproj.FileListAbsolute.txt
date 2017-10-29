@@ -1,0 +1,6 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\ArraySort\bin\Debug\ArraySort.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\ArraySort\bin\Debug\ArraySort.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\ArraySort\obj\Debug\ArraySort.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\ArraySort\obj\Debug\ArraySort.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\ArraySort\obj\Debug\ArraySort.pdb

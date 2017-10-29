@@ -1,0 +1,6 @@
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\Polynomials\bin\Debug\Polynomials.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\Polynomials\bin\Debug\Polynomials.pdb
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\Polynomials\obj\Debug\Polynomials.csprojResolveAssemblyReference.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\Polynomials\obj\Debug\Polynomials.csproj.CoreCompileInputs.cache
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\Polynomials\obj\Debug\Polynomials.dll
+D:\Projects\EPAM\NET.W.2017.Shakhrai.05\Polynomials\obj\Debug\Polynomials.pdb
